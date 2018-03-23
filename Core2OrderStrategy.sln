@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OrderLibrary", "OrderLibrary\OrderLibrary.fsproj", "{70B232C2-8D04-4DD3-96A7-714F2D073FE6}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApp", "ConsoleApp\ConsoleApp.fsproj", "{67385F40-66BD-43C0-9A0F-B7D6BA82329E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B232C2-8D04-4DD3-96A7-714F2D073FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B232C2-8D04-4DD3-96A7-714F2D073FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B232C2-8D04-4DD3-96A7-714F2D073FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B232C2-8D04-4DD3-96A7-714F2D073FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67385F40-66BD-43C0-9A0F-B7D6BA82329E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67385F40-66BD-43C0-9A0F-B7D6BA82329E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67385F40-66BD-43C0-9A0F-B7D6BA82329E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67385F40-66BD-43C0-9A0F-B7D6BA82329E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
